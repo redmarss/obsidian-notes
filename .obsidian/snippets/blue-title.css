@@ -1,0 +1,17 @@
+/* 编辑模式：所有一级标题颜色 */
+.cm-header-1 {
+  color: #1967be !important;
+  font-weight: bold !important;
+}
+
+/* 预览模式：所有一级标题颜色 */
+.markdown-preview-view h1 {
+  color: #1967be !important;
+  font-weight: bold !important;
+}
+
+/* 可选：二级标题也改成同色系浅一点的蓝 */
+.cm-header-2,
+.markdown-preview-view h2 {
+  color: #1967be !important;
+}

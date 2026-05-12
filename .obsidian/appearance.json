@@ -1,0 +1,10 @@
+{
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "css",
+    "active_line",
+    "font",
+    "blue-title"
+  ],
+  "baseFontSize": 16
+}

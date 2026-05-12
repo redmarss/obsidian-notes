@@ -1,0 +1,35 @@
+/* 黄色背景高亮 */
+.markdown-preview-view mark,
+.cm-highlight {
+  background-color: #fff9cc;
+  color: #333;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* 自己加红色背景、蓝色背景，直接复制用 */
+.text-red-bg {
+  background: #ffebee;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+.text-blue-bg {
+  background: #e8f4fd;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+.text-yellow-bg {
+  background: #fffbd5;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+.text-green-bg {
+  background: #eaf8e8;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+.text-orange-bg {
+  background: #fff2e5;
+  padding: 2px 4px;
+  border-radius: 3px;
+}

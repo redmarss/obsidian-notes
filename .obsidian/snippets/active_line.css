@@ -1,0 +1,20 @@
+.markdown-source-view.mod-cm6 .cm-line.cm-active {
+  background-color: #e8f4ff !important; /* 淡蓝 */
+  border-radius: 4px;
+}
+
+/* ===== 编辑模式：选中文字背景（加深蓝） ===== */
+.markdown-source-view ::selection {
+  background-color: #c9e2ff !important; /* 选中加深蓝 */
+}
+
+/* ===== 预览模式：选中文字淡蓝 ===== */
+.markdown-preview-view ::selection {
+  background-color: #c9e2ff !important;
+}
+
+/* ===== 行号区同步高亮（可选） ===== */
+.markdown-source-view.mod-cm6 .cm-lineNumbers .cm-gutterElement.cm-active {
+  background-color: #e8f4ff !important;
+  color: #222;
+}
